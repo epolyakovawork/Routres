@@ -1,0 +1,57 @@
+1710175076196	geckodriver	INFO	Listening on 127.0.0.1:58363
+1710175234719	geckodriver	INFO	Listening on 127.0.0.1:58595
+1710177790763	geckodriver	INFO	Listening on 127.0.0.1:50023
+1710177992799	geckodriver	INFO	Listening on 127.0.0.1:50056
+1710178207152	geckodriver	INFO	Listening on 127.0.0.1:50091
+1710178766503	geckodriver	INFO	Listening on 127.0.0.1:50301
+1710178769610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E784~1\\AppData\\Local\\Temp\\rust_mozprofileWqnsfF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710178770090	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710178770148	Marionette	INFO	Listening on port 50309
+Read port: 50309
+WebDriver BiDi listening on ws://127.0.0.1:50302
+1710178770213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50302/devtools/browser/14dd9333-ba53-4bf9-9ecc-5ca4918b6b0a
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1709643451, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?1709643451, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1710178800616	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK, line 169: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:169:17
+lB@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:502:134
+mB/<@https://www.googletagmanager.com/gtag/js?id=G-3YHTYDHHZK:502:111
+
+1710178817414	Marionette	INFO	Stopped listening on port 50309
+Dynamically enable window occlusion 1
+1710231966296	geckodriver	INFO	Listening on 127.0.0.1:58207
+1710231969379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E784~1\\AppData\\Local\\Temp\\rust_mozprofileW8QtSH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710231969861	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710231969923	Marionette	INFO	Listening on port 58216
+Read port: 58216
+WebDriver BiDi listening on ws://127.0.0.1:58208
+1710231969986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58208/devtools/browser/2c518dac-3b28-46ed-9a03-7dba61bdc603
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?1710175478, line 6289: unreachable code after return statement
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/chunk.414.0bbabdf479854cb5f5fe.js?1710175478, line 308: Script terminated by timeout at:
+r@https://cdn.stepik.net/static/frontend-build/chunk.414.0bbabdf479854cb5f5fe.js?1710175478:308:85
+
+1710231986186	Marionette	INFO	Stopped listening on port 58216
+Dynamically enable window occlusion 1
+1710232131596	geckodriver	INFO	Listening on 127.0.0.1:58328
+1710232134662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\E784~1\\AppData\\Local\\Temp\\rust_mozprofileqbV3Pb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710232134867	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710232134911	Marionette	INFO	Listening on port 58336
+WebDriver BiDi listening on ws://127.0.0.1:58329
+Read port: 58336
+1710232135036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58329/devtools/browser/e9d869c3-fcac-48b3-876d-75eb397c2c5c
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1710232137629	Marionette	INFO	Stopped listening on port 58336
+Dynamically enable window occlusion 1
